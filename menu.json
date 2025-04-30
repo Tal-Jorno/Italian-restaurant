@@ -1,0 +1,44 @@
+{
+    "Pizza": [
+      {
+        "name": "Margherita Pizza",
+        "price": 12.00,
+        "description": "A classic Italian pizza with tomatoes, mozzarella, fresh basil, and olive oil."
+      },
+      {
+        "name": "Four Cheese Pizza",
+        "price": 14.00,
+        "description": "A decadent pizza topped with a blend of four cheeses: mozzarella, gorgonzola, fontina, and parmesan."
+      },
+      {
+        "name": "Veggie Supreme Pizza",
+        "price": 16.00,
+        "description": "Loaded with bell peppers, onions, mushrooms, olives, and mozzarella on a tomato base."
+      }
+    ],
+    "Spaghetti": [
+      {
+        "name": "Spaghetti Carbonara",
+        "price": 15.00,
+        "description": "Rich and creamy pasta dish made with eggs, hard cheese, pancetta, and black pepper."
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "price": 17.00,
+        "description": "Classic spaghetti with a hearty meat sauce made from ground beef, tomatoes, and herbs."
+      },
+      {
+        "name": "Spaghetti Aglio e Olio",
+        "price": 13.00,
+        "description": "Simple yet flavorful spaghetti tossed with garlic, olive oil, chili flakes, and parsley."
+      }
+    ],
+    "Dessert": [
+      {
+        "name": "Tiramisu",
+        "price": 8.00,
+        "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese."
+      }
+    ]
+  }
+  
